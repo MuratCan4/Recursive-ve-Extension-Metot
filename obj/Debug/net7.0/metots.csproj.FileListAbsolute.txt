@@ -1,0 +1,15 @@
+C:\Users\Murat\Desktop\metots\bin\Debug\net7.0\metots.exe
+C:\Users\Murat\Desktop\metots\bin\Debug\net7.0\metots.deps.json
+C:\Users\Murat\Desktop\metots\bin\Debug\net7.0\metots.runtimeconfig.json
+C:\Users\Murat\Desktop\metots\bin\Debug\net7.0\metots.dll
+C:\Users\Murat\Desktop\metots\bin\Debug\net7.0\metots.pdb
+C:\Users\Murat\Desktop\metots\obj\Debug\net7.0\metots.csproj.AssemblyReference.cache
+C:\Users\Murat\Desktop\metots\obj\Debug\net7.0\metots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat\Desktop\metots\obj\Debug\net7.0\metots.AssemblyInfoInputs.cache
+C:\Users\Murat\Desktop\metots\obj\Debug\net7.0\metots.AssemblyInfo.cs
+C:\Users\Murat\Desktop\metots\obj\Debug\net7.0\metots.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\metots\obj\Debug\net7.0\metots.dll
+C:\Users\Murat\Desktop\metots\obj\Debug\net7.0\refint\metots.dll
+C:\Users\Murat\Desktop\metots\obj\Debug\net7.0\metots.pdb
+C:\Users\Murat\Desktop\metots\obj\Debug\net7.0\metots.genruntimeconfig.cache
+C:\Users\Murat\Desktop\metots\obj\Debug\net7.0\ref\metots.dll
